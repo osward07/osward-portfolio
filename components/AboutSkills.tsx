@@ -70,7 +70,7 @@ const skillRows: Record<string, number> = {
   Hero: 7,
 };
 
-const skillVariant = {
+const skillVariant: any = {
   hidden: { opacity: 0, y: 20 },
   visible: (rowIndex: number) => ({
     opacity: 1,
