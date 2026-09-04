@@ -113,7 +113,7 @@ export default function AboutSkills() {
                 Growing up surrounded by technology, especially computers, shaped my curiosity and gradually developed my passion for this field. This led me to pursue my course, Bachelor of Science in Information Technology (BSIT), where I continue to grow my skills and knowledge.
               </p>
               <p>
-                Aside from these, I also serve in our church as part of the multimedia ministry, contributing to various media-related tasks. In my free time, I enjoy playing online games, reading, and working out, jogging, playing sports. I’m always eager to learn, improve, and create solutions that can make a difference.
+                Aside from these, I also serve in our church as part of the multimedia ministry, contributing to various media-related tasks. In my free time, I enjoy playing online games, reading, working out, jogging, and playing sports. I’m always eager to learn, improve, and create solutions that can make a difference.
               </p>
             </div>
           </motion.div>
