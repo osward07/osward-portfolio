@@ -10,9 +10,17 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Osward Puriran | IT Professional & Developer",
+  title: "My Developer Portfolio",
   description:
-    "Portfolio of Osward Puriran, a passionate Information Technology student and developer based in Quezon City, specializing in web development, AI integration, and digital media.",
+    "Showcasing my projects, technical skills, and web development journey.",
+  openGraph: {
+    title: "My Developer Portfolio",
+    description:
+      "Showcasing my projects, technical skills, and web development journey.",
+    url: "https://osward-portfolio.vercel.app",
+    siteName: "Portfolio",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

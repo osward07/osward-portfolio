@@ -114,7 +114,7 @@ export default function AboutSkills() {
               </p>
               <p>
                 Aside from these, I also serve in our church as part of the multimedia ministry, contributing to various media-related tasks. In my free time, I enjoy playing online games, reading, working out, jogging, and playing sports. I’m always eager to learn, improve, and create solutions that can make a difference.
-              </p>
+              </p>git add .
             </div>
           </motion.div>
           <motion.div
